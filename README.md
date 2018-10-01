@@ -37,4 +37,11 @@ OS: Linux kopā 7 lapas **(tty1..tty7)**
 **cp fails.txt failiņš123.txt** - failu kopēšana un kopjas nosaukšana citādāk  
 **mv fails.txt fails000.txt** - faila pārsaukšana citam nosaukumam  
 **mv fail*.txt Music/** - visus failus, kam nosaukumā ir "fail" pārceļ uz Music/ mapi  
+**nano** - atver vaļā failu, lai kaut ko tur var ierakstīt  
+**./** - atvēršana  
+**~/** - atvēršana  
+**/home/user/kaut kāds fails** - atvēršana  
+**Ctrl+c** - iziet no nepareizas ievades  
+**chmod** - maina dokumenta tiesības. Raksta skaitļus binārā chm 764"(rwx)" kkads fails  
+  
 

@@ -1,0 +1,9 @@
+#!/bin/bash
+if [ $# == 1 ]
+then
+git config --global user.email daceasme@inbox.lv
+git add .
+#git commit -m "20181001"
+git commit -m $1
+git push origin master
+fi
